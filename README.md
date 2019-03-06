@@ -1,5 +1,6 @@
 # SysPoweroffOnZeroMotion
 OpenCV C++ program to shutdown Linux Machine when there is no motion detected by camera for certain time(10s)
+
 Motion Detection is based on Background Subtractor using KNN in OpenCV 3.x
 
 ---
